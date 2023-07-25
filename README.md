@@ -9,10 +9,10 @@ In this project, the goal is to design and build a highly parameterized and conf
 - Usually the First Instruction
 
 **Parameters**
-_- [cache_count] Number of Cache Layers in this System (Must be At Least 1)
+- [cache_count] Number of Cache Layers in this System (Must be At Least 1)
 - [block_size] Number of Bytes that Each DataBlock can hold
 - [policy_num] Policy Number this System should Implement (Must be Either 0=[Write-Back&Write-Allocate] or 1=[Write-Thru&Non-Write-Allocate])
-  _
+  
 **Requirements**
 - Must be called ONLY Once.
 
