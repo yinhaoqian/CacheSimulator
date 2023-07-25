@@ -4,9 +4,13 @@ In this project, the goal is to design and build a highly parameterized and conf
 `con [cache_count] [block_size] [policy_num]`
 
 Configure System Parameters
+
 Set Global Configurational Parameters
+
 Develop Cache List Containing [cache_count] Empty Caches as Doubly-Linked List 
+
 Usually the First Instruction
+
 Parameters
 [cache_count] Number of Cache Layers in this System (Must be At Least 1)
 [block_size] Number of Bytes that Each DataBlock can hold
